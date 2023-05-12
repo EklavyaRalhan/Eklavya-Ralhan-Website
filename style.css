@@ -1,0 +1,39 @@
+.travel_maindiv{
+    border: 1px solid black;
+}
+
+.travel_maindiv img{
+    width: 100%;
+}
+
+.travel_maindiv h5, .travel_maindiv p{
+    margin: 20px;
+}
+
+.movie_head{
+    font-size:20px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i{
+    float:right;
+}
+
+.movie_text span{
+    color:gold;
+}
+
+.Book{
+    margin: bottom 20px;
+}
+
+.Book img{
+    width:400px;
+    height:400px;
+}
+
+.movies img{
+width: 100%;
+}
